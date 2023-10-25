@@ -1,2 +1,0 @@
-    if word == "":
-        return False
